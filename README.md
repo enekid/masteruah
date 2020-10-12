@@ -1,6 +1,6 @@
 ## Básico
 
-En el trabajo uso git a diario, así que algunos de los puntos no los puedo realizar de nuevo.
+En el trabajo uso git a diario, así que algunos de los puntos no los puedo realizar de nuevo (instalar git, registro GitHub y ssh)
 
 Usuario GitHub: [enekid](https://github.com/enekid)
 
@@ -67,3 +67,11 @@ git push origin v0.1
 ![Foto](/screenshots/github-avatar.png?raw=true)
 
 ![2FA](/screenshots/github-2FA.png?raw=true)
+
+### Crear tabla
+
+| NOMBRE | GITHUB |
+| ------ | ------ |
+|        |        |
+|        |        |
+|        |        |
