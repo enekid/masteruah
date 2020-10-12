@@ -41,5 +41,5 @@ git tag v0.1
 
 ```bash
 git push origin main
-git push origin :refs/tags/v0.1
+git push origin v0.1
 ```
