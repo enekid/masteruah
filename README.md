@@ -1,6 +1,6 @@
 ## Básico
 
-En el trabajo uso git a diario, así que algunos de los puntos no los puedo realizar de nuevo (instalar git, registro GitHub y ssh)
+En el trabajo uso git a diario, así que algunos de los puntos no los puedo realizar de nuevo (_instalar git_, _registro GitHub_ y _ssh_)
 
 Usuario GitHub: [enekid](https://github.com/enekid)
 
@@ -14,7 +14,7 @@ La configuración de usuario y email la realizo en el siguiente ejercicio de man
 
 https://github.com/enekid/masteruah
 
-Creado vacío. No lo clono porque lo iniciaré en local.
+Creado vacío. No lo clono porque lo iniciaré en local y haré push.
 
 ### Init y configuración
 
@@ -33,6 +33,8 @@ git branch -M main
 git remote add origin git@github.com:enekid/masteruah.git
 git push -u origin main
 ```
+
+Nuevos tiempos, usamos `main` en lugar de `master`.
 
 ### Ignorar archivos
 
