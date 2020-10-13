@@ -72,8 +72,8 @@ git push origin v0.1
 
 ### Crear tabla
 
-| NOMBRE | GITHUB |
-| ------ | ------ |
-|        |        |
-|        |        |
-|        |        |
+| NOMBRE           | GITHUB                       |
+| ---------------- | ---------------------------- |
+| Andrés Fondevila | https://github.com/andresuah |
+| Adolfo Onrubia   | https://github.com/Binomi0   |
+| X                | X                            |
