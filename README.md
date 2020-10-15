@@ -76,4 +76,4 @@ git push origin v0.1
 | ---------------- | ---------------------------- |
 | Andrés Fondevila | https://github.com/andresuah |
 | Adolfo Onrubia   | https://github.com/Binomi0   |
-| X                | X                            |
+| Joseph Reyes     | https://github.com/jossjack  |
