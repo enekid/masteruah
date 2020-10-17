@@ -6,7 +6,7 @@ Usuario GitHub: [enekid](https://github.com/enekid)
 
 La configuración de usuario y email la realizo en el siguiente ejercicio de manera local.
 
-![GitHub Desktop](/screenshots/github-desktop.png?raw=true)
+![GitHub Desktop](screenshots/github-desktop.png?raw=true)
 
 ## Medio. Ejercicios de Git, GitHub y Markdown
 
@@ -66,9 +66,9 @@ git push origin v0.1
 
 ### Cuenta GitHub
 
-![Foto](/screenshots/github-avatar.png?raw=true)
+![Foto](screenshots/github-avatar.png?raw=true)
 
-![2FA](/screenshots/github-2FA.png?raw=true)
+![2FA](screenshots/github-2FA.png?raw=true)
 
 ### Crear tabla
 
@@ -150,3 +150,17 @@ git push --tag origin main
 ```bash
 git log --oneline --decorate --graph --all
 ```
+
+### Crear organización y equipos
+
+![GitHub organizacion](screenshots/organizacion.png)
+
+![GitHub administradores](screenshots/administradores.png)
+
+![GitHub colaboradores](screenshots/colaboradores.png)
+
+### Crear index.html
+
+https://masteruah-enekid.github.io/
+
+![GitHub colaboradores](screenshots/github-pages.png)
