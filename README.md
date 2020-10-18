@@ -153,6 +153,8 @@ git log --oneline --decorate --graph --all
 
 ### Crear organización y equipos
 
+https://github.com/masteruah-enekid/masteruah-enekid.github.io
+
 ![GitHub organizacion](screenshots/organizacion.png)
 
 ![GitHub administradores](screenshots/administradores.png)
@@ -164,3 +166,19 @@ git log --oneline --decorate --graph --all
 https://masteruah-enekid.github.io/
 
 ![GitHub colaboradores](screenshots/github-pages.png)
+
+### Crear pull requests
+
+https://github.com/masteruah-leilane13/masteruah-leilane13.github.io
+
+![GitHub colaboradores](screenshots/github-pr-leilane.png)
+
+https://github.com/masteruah-jossjack/masteruah-jossjack.github.io
+
+![GitHub colaboradores](screenshots/github-pr-jossjack.png)
+
+### Gestionar pull requests
+
+https://github.com/masteruah-enekid/masteruah-enekid.github.io/pulls?q=is%3Apr+is%3Aclosed
+
+![GitHub colaboradores](screenshots/github-pr-manage.png)
